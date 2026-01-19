@@ -74,14 +74,14 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 | Integrante | Rol Principal | GitHub |
 | :--- | :--- | :--- |
 | **Isaura Casas** | Backend / Data Engineer | [@user](https://github.com/) |
-| **Oscar Monroy | / |[@user](https://github.com/) |
-| **Hageo Balam** |  /  | [@user](https://github.com/) |
+| **Oscar Monroy** | / |[@user](https://github.com/) |
+| **Hageo Balam** | Backend / Data Engineer | [@Ajo-png](https://github.com/Ajo-png) |
 | **Gabriel Flores** |   | [@Gabriel-Onitsuaf](https://github.com/Gabriel-Onitsuaf) |
-| **Emmanuel Montiel** |  Fullstack | [@esaumonti-blip](https://github.com/) |
-| **José Evelio** | / | [@josesnowdev]([https://github.com/](https://github.com/josesnowdev)) | 
+| **Emmanuel Montiel** |  Fullstack | [@esaumonti-blip](https://github.com/esaumonti-blip) |
+| **José Evelio** | / | [@josesnowdev](https://github.com/josesnowdev) | 
 | **Mariana Carmona** | / | [@user](https://github.com/) |
 | **Andrea Meneses** |  / | [@user](https://github.com/) |
-| **Juan Ariel Alarcón** | /  | [JuanAG1003](https://github.com/JuanAG1003) |
+| **Juan Ariel Alarcón** | /  | [@JuanAG1003](https://github.com/JuanAG1003) |
 
 
 ---
